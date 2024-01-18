@@ -11,15 +11,18 @@
 * [[24.01.03] 6. Process Synchronization and Mutual Exclusion](https://github.com/KodaHye/TIL/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/6.%20Process%20Synchronization%20and%20Mutual%20Exclusion.md)
 * [[24.01.06] 7. Deadlock](https://github.com/KodaHye/TIL/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/7.%20Deadlock.md)
 * [[24.01.10] 8. Memory Management](https://github.com/KodaHye/TIL/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/8.%20Memory%20Management.md)
-* [[24.01.12] 9. Virtual Memory]()
+* [[24.01.12] 9. Virtual Memory](https://github.com/KodaHye/TIL/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/9.%20Virtual%20Memory.md)
+* [[24.01.15] 10. Virtual Memory Management](https://github.com/KodaHye/TIL/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/10.%20Virtual%20Memory%20Management.md)
+* [[24.01.16] 11. File System](https://github.com/KodaHye/TIL/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/11.%20File%20System.md)
+* [[24.01.17] 12. I/O System & Disk Management](https://github.com/KodaHye/TIL/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/12.%20IO%20System%20%26%20Disk%20Management.md)
   <br>
 
 ### Spring Cloud로 개발하는 MSA
-[[인프런] Spring Cloud로 개발하는 마이크로서비스 애플리케이션(MSA)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4/dashboard) | [프로젝트 깃허브](https://github.com/KodaHye/Spring-Cloud-MSA)
+[[인프런] Spring Cloud로 개발하는 마이크로서비스 애플리케이션(MSA)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4/dashboard) | [프로젝트](https://github.com/KodaHye/Spring-Cloud-MSA)
 * [[23.12.30] 1. Service Discovery](https://github.com/KodaHye/TIL/blob/main/Spring%20Cloud%EB%A1%9C%20%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94%20MSA/1.%20Service%20Discovery.md)
 * [[24.01.04] 2. Gateway Service](https://github.com/KodaHye/TIL/blob/main/Spring%20Cloud%EB%A1%9C%20%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94%20MSA/2.%20API%20Gateway%20Service.md)
 * [[24.01.05] 3. Users Microservice](https://github.com/KodaHye/TIL/blob/main/Spring%20Cloud%EB%A1%9C%20%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94%20MSA/3.%20Users%20Microservice.md)
-<br>
+  <br>
 
 ### Effective Java
 
